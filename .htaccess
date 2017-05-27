@@ -1,0 +1,6 @@
+#Url amigables
+Options +FollowSymlinks
+#RewriteBase /
+RewriteEngine on
+ 
+RewriteRule ^(.+).html ver_post.php?date=$1

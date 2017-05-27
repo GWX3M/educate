@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SacarComent" value="name:id;datatype:int,name:autor;datatype:int,name:post;datatype:int,name:comentario;datatype:blob" />
+</info>

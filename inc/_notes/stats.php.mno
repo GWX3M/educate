@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_EstadisticasWeb" value="name:id;datatype:int,name:nombre;datatype:string,name:password;datatype:string,name:email;datatype:string,name:ultima;datatype:timestamp,name:avatar;datatype:string,name:rango;datatype:int,name:lema;datatype:blob,name:puntos;datatype:int" />
+	<infoitem key="UD_EstadisticasPost" value="name:id;datatype:int,name:nombre;datatype:string,name:password;datatype:string,name:email;datatype:string,name:ultima;datatype:timestamp,name:avatar;datatype:string,name:rango;datatype:int,name:lema;datatype:blob,name:puntos;datatype:int" />
+</info>
