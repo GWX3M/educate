@@ -32,7 +32,7 @@
 <p>Gary Wilson Cano Mota - 1090-07-10877 - Programador</p>
 
 Repositorio GitHub:
-<a href="https://github.com/GWX3M/dsistemas.git"><p>Diseño de Sistemas</p></a>
+<a href="https://github.com/GWX3M/educate"><p>Diseño de Sistemas</p></a>
 </tr>
 
 
